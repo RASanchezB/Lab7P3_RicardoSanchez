@@ -31,3 +31,4 @@ vector<string> Mesero::getLista(){
 void Mesero::setLista(vector<string> pLista){
 	lista = pLista;
 }
+Mesero::~Mesero(){}
